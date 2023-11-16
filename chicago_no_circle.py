@@ -191,14 +191,14 @@ def find_shortest_path(start, end):
 #find_shortest_path("Rockwell", "Cicero_Green")
 
 # Example usage
-print(find_shortest_path('Howard', 'Kostner'),
-find_shortest_path("LaSalle/Van Buren", "Western_Blue1"),
-find_shortest_path("Western_Pink", "Cermak-Chinatown"),
-find_shortest_path("Garfield", "Belmont"),
-find_shortest_path("Roosevelt", "Cicero_Green"),
-find_shortest_path("Kedzie_Orange", "Clark/Lake"),
-find_shortest_path("Western_Blue1", "Ashland/63rd"),
-find_shortest_path("Merchandise Mart", "Kedzie_Orange"),
-find_shortest_path("Western_Pink", "Roosevelt"),
-find_shortest_path("47th_Green", "Belmont"),
-find_shortest_path("Western_Blue1", "LaSalle/Van Buren"))
+#print(find_shortest_path('Howard', 'Kostner'),
+#find_shortest_path("LaSalle/Van Buren", "Western_Blue1"),
+#find_shortest_path("Western_Pink", "Cermak-Chinatown"),
+#find_shortest_path("Garfield", "Belmont"),
+#find_shortest_path("Roosevelt", "Cicero_Green"),
+#find_shortest_path("Kedzie_Orange", "Clark/Lake"),
+#find_shortest_path("Western_Blue1", "Ashland/63rd"),
+#find_shortest_path("Merchandise Mart", "Kedzie_Orange"),
+#find_shortest_path("Western_Pink", "Roosevelt"),
+#find_shortest_path("47th_Green", "Belmont"),
+#find_shortest_path("Western_Blue1", "LaSalle/Van Buren"))
