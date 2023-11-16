@@ -1,0 +1,153 @@
+station,next_station,line_color,approximate_travel_time_seconds
+Howard,Jarvis,Red,90
+Jarvis,Morse,Red,90
+Morse,Loyola,Red,120
+Loyola,Granville,Red,90
+Granville,Thorndale,Red,90
+Thorndale,Bryn Mawr,Red,120
+Bryn Mawr,Berwyn,Red,90
+Berwyn,Argyle,Red,90
+Argyle,Lawrence,Red,90
+Lawrence,Wilson,Red,120
+Wilson,Sheridan,Red,90
+Sheridan,Addison,Red,90
+Addison,Belmont,Red,90
+Belmont,Fullerton,Red,120
+Fullerton,North/Clybourn,Red,90
+North/Clybourn,Clark/Division,Red,120
+Clark/Division,Chicago_Red,Red,90
+Chicago_Red,Grand_Red,Red,90
+Grand_Red,Lake,Red,90
+Lake,Monroe_Red,Red,90
+Monroe_Red,Jackson,Red,90
+Jackson,Harrison,Red,90
+Harrison,Roosevelt,Red,90
+Roosevelt,Cermak-Chinatown,Red,120
+Cermak-Chinatown,Sox-35th,Red,90
+Sox-35th,47th,Red,90
+47th,Garfield,Red,90
+Garfield,63rd,Red,90
+63rd,69th,Red,90
+69th,79th,Red,90
+79th,87th,Red,90
+87th,95th/Dan Ryan,Red,90
+O'Hare,Rosemont,Blue,180
+Rosemont,Cumberland,Blue,120
+Cumberland,Harlem_Blue1,Blue,120
+Harlem_Blue1,Jefferson Park,Blue,120
+Jefferson Park,Montrose,Blue,120
+Montrose,Irving Park,Blue,90
+Irving Park,Addison,Blue,90
+Addison,Belmont,Blue,120
+Belmont,Logan Square,Blue,180
+Logan Square,California_Blue,Blue,120
+California_Blue,Western_Blue1,Blue,90
+Western_Blue1,Damen,Blue,90
+Damen,Division,Blue,90
+Division,Chicago_Blue,Blue,90
+Chicago_Blue,Grand_Blue,Blue,90
+Grand_Blue,Clark/Lake,Blue,90
+Clark/Lake,Washington,Blue,90
+Washington,Monroe_Blue,Blue,90
+Monroe_Blue,Jackson,Blue,90
+Jackson,LaSalle,Blue,90
+LaSalle,Clinton,Blue,90
+Clinton,UIC-Halsted,Blue,90
+UIC-Halsted,Racine,Blue,90
+Racine,Illinois Medical District,Blue,90
+Illinois Medical District,Western_Blue2,Blue,120
+Western_Blue2,Kedzie-Homan,Blue,120
+Kedzie-Homan,Pulaski_Blue,Blue,120
+Pulaski_Blue,Cicero_Blue,Blue,120
+Cicero_Blue,Austin_Blue,Blue,120
+Austin_Blue,Oak Park_Blue,Blue,120
+Oak Park_Blue,Harlem_Blue2,Blue,180
+Harlem_Blue2,Forest Park,Blue,120
+Harlem/Lake,Oak Park_Green,Green,120
+Oak Park_Green,Ridgeland,Green,120
+Ridgeland,Austin_Green,Green,120
+Austin_Green,Central,Green,90
+Central,Laramie,Green,90
+Laramie,Cicero_Green,Green,90
+Cicero_Green,Pulaski_Green,Green,90
+Pulaski_Green,Conservatory-Central Park Drive,Green,90
+Conservatory-Central Park Drive,Kedzie_Green,Green,120
+Kedzie_Green,California_Green,Green,120
+California_Green,Ashland,Green,90
+Ashland,Morgan,Green,90
+Morgan,Clinton,Green,90
+Clinton,Clarke/Lake,Green,90
+Clarke/Lake,State/Lake,Green,90
+State/Lake,Washington/Wabash,Green,90
+Washington/Wabash,Adams/Wabash,Green,90
+Adams/Wabash,Roosevelt,Green,90
+Roosevelt,Cermak-McCormick Place,Green,90
+Cermak-McCormick Place,35-Bronzeville-IIT,Green,90
+35-Bronzeville-IIT,Indiana,Green,90
+Indiana,43rd,Green,90
+43rd,47th_Green,Green,90
+47th_Green,51st,Green,90
+51st,Garfield_Green,Green,90
+Garfield_Green,Halsted_Green,Green,90
+Halsted_Green,Ashland/63rd,Green,90
+Kimball,Kedzie,Brown,90
+Kedzie,Francisco,Brown,90
+Francisco,Rockwell,Brown,90
+Rockwell,Western,Brown,90
+Western,Damen,Brown,90
+Damen,Montrose,Brown,90
+Montrose,Irving Park,Brown,90
+Irving Park,Addison,Brown,90
+Addison,Paulina,Brown,90
+Paulina,Southport,Brown,90
+Southport,Belmont,Brown,90
+Belmont,Wellington,Brown,90
+Wellington,Diversey,Brown,90
+Diversey,Fullerton,Brown,90
+Fullerton,Armitage,Brown,90
+Armitage,Sedgwick,Brown,90
+Sedgwick,Chicago,Brown,90
+Chicago,Merchandise Mart,Brown,90
+Merchandise Mart,Washington/Wells,Brown,90
+Washington/Wells,Quincy,Brown,90
+Quincy,LaSalle/Van Buren,Brown,90
+LaSalle/Van Buren,Harold Washington Library,Brown,90
+Harold Washington Library,Adams/Wabash,Brown,90
+Adams/Wabash,Washington/Wabash,Brown,90
+Washington/Wabash,State/Lake,Brown,90
+54th/Cermak,Cicero,Pink,90
+Cicero,Kostner,Pink,90
+Kostner,Pulaski_Pink,Pink,90
+Pulaski_Pink,Central Park,Pink,90
+Central Park,Kedzie_Pink,Pink,90
+Kedzie_Pink,California_Pink,Pink,90
+California_Pink,Western_Pink,Pink,90
+Western_Pink,Damen,Pink,90
+Damen,18th,Pink,90
+18th,Polk,Pink,90
+Polk,Ashland,Pink,90
+Ashland,Morgan,Pink,90
+Morgan,Clinton,Pink,90
+Clinton,Clarke/Lake,Pink,90
+Clarke/Lake,State/Lake,Pink,90
+State/Lake,Washington/Wabash,Pink,90
+Washington/Wabash,Adams/Wabash,Pink,90
+Adams/Wabash,Harold Washington Library,Pink,90
+Harold Washington Library,LaSalle/Van Buren,Pink,90
+LaSalle/Van Buren,Quincy,Pink,90
+Quincy,Washington/Wells,Pink,90
+Midway,Pulaski_Orange,Orange,90
+Pulaski_Orange,Kedzie_Orange,Orange,90
+Kedzie_Orange,Western_Orange,Orange,90
+Western_Orange,35th/Archer,Orange,90
+35th/Archer,Ashland_Orange,Orange,90
+Ashland_Orange,Halsted,Orange,90
+Halsted,Roosevelt,Orange,90
+Roosevelt,Harold Washington Library-State/Van Buren,Orange,90
+Harold Washington Library-State/Van Buren,LaSalle/Van Buren,Orange,90
+LaSalle/Van Buren,Quincy,Orange,90
+Quincy,Washington/Wells,Orange,90
+Washington/Wells,Clark/Lake,Orange,90
+Clark/Lake,State/Lake,Orange,90
+State/Lake,Washington/Wabash,Orange,90
+Washington/Wabash,Adams/Wabash,Orange,90
