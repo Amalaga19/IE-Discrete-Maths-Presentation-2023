@@ -1,8 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-
 G = nx.Graph()
-
 G.add_weighted_edges_from([
     ("Linden", "Central", 120),
     ("Central", "Noyes", 90),
@@ -174,12 +172,8 @@ G.add_weighted_edges_from([
     ("Washington/Wabash", "Adams/Wabash", 60),
     ("Adams/Wabash", "Roosevelt", 180)
     ])
-
-
 # Draw the graph
 nx.draw(G, with_labels=True)
-# plt.show()
-
 def find_shortest_path(start, end):
     shortest_path = nx.dijkstra_path(G, start, end)
     total_time = nx.dijkstra_path_length(G, start, end)
@@ -187,8 +181,10 @@ def find_shortest_path(start, end):
     print(f"The total travel time is: {total_time//60} minutes and {total_time%60} seconds")
     return total_time
 
-#find_shortest_path("Kedzie-Homan", "Kostner")
-#find_shortest_path("Rockwell", "Cicero_Green")
+find_shortest_path("Station 1", "Station 2")
+
+
+
 
 # Example usage
 #print(find_shortest_path('Howard', 'Kostner'),

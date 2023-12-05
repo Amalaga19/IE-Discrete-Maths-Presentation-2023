@@ -208,4 +208,4 @@ def find_shortest_path(start, end):
 #find_shortest_path("47th_Green", "Belmont"),
 #find_shortest_path("Western_Blue1", "LaSalle/Van Buren")#]))
 #find_shortest_path("Kedzie-Homan", "Kostner")
-find_shortest_path("Rockwell", "Cicero_Green")
+find_shortest_path("Kedzie-Homan", "Ashland_Orange")
